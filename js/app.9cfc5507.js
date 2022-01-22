@@ -860,7 +860,7 @@
   },
   a727: function (e, a, t) {},
   cf05: function (e, a, t) {
-    e.exports = t.p + "img/logo.973e5e3b.png";
+    e.exports = t.p + "/img/logo.973e5e3b.png";
   },
   f612: function (e, a, t) {},
   fa22: function (e, a, t) {},
