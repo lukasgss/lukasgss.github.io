@@ -416,7 +416,7 @@
             Object(s["e"])("div", l, [Object(s["g"])(c)]),
             Object(s["e"])("div", b, [
               Object(s["e"])("div", j, [
-                Object(s["e"])("img", { src: "/img/logo.973e5e3b", alt: "Logo", class: "logo" }, null, 8, f),
+                Object(s["e"])("img", { src: "/img/logo.973e5e3b.png", alt: "Logo", class: "logo" }, null, 8, f),
                 p,
                 m,
                 g,
@@ -621,7 +621,7 @@
       I = {
         components: { TempoProxCorrida: _ },
         data: function () {
-          return { linkLogo: t("cf05") };
+          return { linkLogo: "/img/logo.973e5e3b.png" };
         },
       };
     t("8fb2");
